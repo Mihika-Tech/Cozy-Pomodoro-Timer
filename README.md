@@ -9,6 +9,11 @@ Features
 - Light/Dark mode toggle
 - Sound notifications
 
+![Screenshot 2025-05-19 194914](https://github.com/user-attachments/assets/3bb48cef-a71a-4a2a-a9d0-239663598b1c)
+
+![image](https://github.com/user-attachments/assets/16f3c31c-b113-4bf8-b61a-0468210a9327)
+
+
 ## How to Use
 
 - Click Play to start the 25-minute focus timer
