@@ -2,7 +2,7 @@
   "name": "cozy-pomodoro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mihika-tech.github.io/Cozy-Pomodoro-Timer/",
+  "homepage": "https://mihika-tech.github.io/Cozy-Pomodoro-Timer/src/App.js",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
