@@ -1,7 +1,8 @@
 # Cozy Pomodoro Plant Timer
 
 A pomodoro timer with animated plant growth and session tracking to help you stay focused.
-Features
+
+## Features
 
 - 25-minute work / 5-minute break timer
 - Plant that grows as you complete work sessions
