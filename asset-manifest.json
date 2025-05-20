@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cozy-Pomodoro-Timer/static/css/main.6f04de98.css",
+    "main.js": "/Cozy-Pomodoro-Timer/static/js/main.a92bfc9e.js",
+    "index.html": "/Cozy-Pomodoro-Timer/index.html",
+    "main.6f04de98.css.map": "/Cozy-Pomodoro-Timer/static/css/main.6f04de98.css.map",
+    "main.a92bfc9e.js.map": "/Cozy-Pomodoro-Timer/static/js/main.a92bfc9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f04de98.css",
+    "static/js/main.a92bfc9e.js"
+  ]
+}
